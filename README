@@ -1,0 +1,10 @@
+Project made by Eugene Griskov as a 3rd coursework assigment for a core programming module at University of Leeds
+Bibliography:
+http://www.permadi.com/tutorial/raycast/index.html
+http://dev.opera.com/articles/view/creating-pseudo-3d-games-with-html-5-can-1/
+http://dev.opera.com/articles/view/3d-games-with-canvas-and-raycasting-part/
+Sprite source:
+http://www.areyep.com/RIPandMCS-TextureLibrary.html
+
+THANKS TO:
+John D. Carmack for making this algorithm popular and opening source codes of engines
